@@ -8,3 +8,5 @@
 morales20A/morales20A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+google.com, pub-2284977573630732, DIRECT, f08c47fec0942fa0<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2284977573630732"
+     crossorigin="anonymous"></script><meta name="google-site-verification" content="biHAOSKJiIGPDYcwh1WnoqMs9ijqBuL2ATIdJe9Gcio" />
